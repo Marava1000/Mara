@@ -1,0 +1,4 @@
+listaSocios=(input("ingrese lista de socios"))
+sociosparaBuscar["Luciano", "Pablo", "Ramiro", "Daniela"]
+if socios>=4:
+    print

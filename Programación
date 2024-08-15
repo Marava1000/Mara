@@ -1,0 +1,4 @@
+listasDeClientes=["Joaquin", "Roberta", "Laura", "Santino"]#
+buscar="Lucas"#
+if buscar in listasDeClientes: #
+    print("Lucas se encuntra en la lista de clientes")#
