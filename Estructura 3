@@ -1,0 +1,21 @@
+libroscargados=["los arboles mueren de pie"]
+print(libroscargados)
+#insert=agrega elementos donde le indico pasandole la ubicacion del indice
+libroscargados.append("nunca renuncies a tus sueños")
+libroscargados.append("el tunel")
+libroscargados.append("cien años de soledad")
+
+libroscargados[1]="los arboles mueren de pie"
+print(libroscargados)
+
+
+libroscargados=["los arboles mueren de pie"]
+print(libroscargados)
+#insert=agrega elementos donde le indico pasandole la ubicacion del indice
+libroscargados.append("nunca renuncies a tus sueños")
+libroscargados.append("el tunel")
+libroscargados.append("cien años de soledad")
+libroscargados.append("martin fierro")
+
+libroscargados[2]="martin fierro"
+print(libroscargados)
